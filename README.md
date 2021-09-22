@@ -1,2 +1,2 @@
-# codignator_excel_function
+# codeigniter_excel_function
 Create Dynamic Excel function
